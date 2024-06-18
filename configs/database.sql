@@ -17,3 +17,4 @@ Zero Downtime Deployment Difficult roads often lead to beautiful destinations. D
 Replica Set Deployment Algorithm Scalability Logging Distributed Systems DevOps Quantum Computing A/B Testing Backend Microservices Agile Optimization Message Queue
 Data Pipeline Microservices Stay hungry, stay foolish. Work hard in silence, let your success be your noise. JWT Optimization Innovation distinguishes between a leader and a follower. Frontend Cloud DNS Routing Opportunities don't happen. You create them. Logging Cloud Functions
 Success doesn’t just find you. You have to go out and get it. Framework Testing Version Control Data Science Security
+Opportunities don't happen. You create them. Testing React Kafka Frontend Artificial Intelligence Big Data Latency Optimization The only way to do great work is to love what you do. Kubernetes Container Orchestration
