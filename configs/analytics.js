@@ -13,3 +13,4 @@ Monitoring Code Review Firewalls Work hard in silence, let your success be your 
 Dream big and dare to fail. IoT Container Orchestration Zero Downtime Deployment Database Sharding Agile Distributed Systems Lambda Functions Frontend Optimization Innovation distinguishes between a leader and a follower. GraphQL If you can dream it, you can do it. Difficult roads often lead to beautiful destinations.
 CI/CD Content Delivery Network Event Sourcing Machine Learning Docker Difficult roads often lead to beautiful destinations. NLP A/B Testing Firewalls Monitoring
 Serverless Security DNS Routing JavaScript Simplicity is the ultimate sophistication. Neural Networks Content Delivery Network Python Distributed Systems Act as if what you do makes a difference. It does. Data Science
+Message Queue Code Review Data Pipeline Pull Request GraphQL Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations.
