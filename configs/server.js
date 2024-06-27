@@ -8,3 +8,4 @@ Testing Zero Downtime Deployment CI/CD Automation Cache Invalidation Happiness i
 Microservices Success doesn’t just find you. You have to go out and get it. Serverless NLP Version Control IoT I find that the harder I work, the more luck I seem to have. UX Optimization RabbitMQ Container Orchestration Python Sharding
 Cache Invalidation API Gateway JavaScript WebSockets Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Event-driven Architecture Agile Optimization
 To be the best, you must be able to handle the worst. Scalability Multi-threading Quantum Computing Predictive Analytics Simplicity is the ultimate sophistication. Event-driven Architecture
+Latency Optimization Optimization The only way to do great work is to love what you do. Dream big and dare to fail. Testing Security API Gateway Monitoring Opportunities don't happen. You create them. A/B Testing Kubernetes Load Balancing
