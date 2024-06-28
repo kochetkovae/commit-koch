@@ -16,3 +16,4 @@ Firewalls Optimization Data Science Container Orchestration Don't be afraid to g
 Zero Downtime Deployment Difficult roads often lead to beautiful destinations. DNS Routing Success is how high you bounce when you hit bottom. Distributed Systems Monitoring API JWT Sharding Microservices OAuth Kubernetes Security Do what you love and the money will follow. JavaScript
 Replica Set Deployment Algorithm Scalability Logging Distributed Systems DevOps Quantum Computing A/B Testing Backend Microservices Agile Optimization Message Queue
 Data Pipeline Microservices Stay hungry, stay foolish. Work hard in silence, let your success be your noise. JWT Optimization Innovation distinguishes between a leader and a follower. Frontend Cloud DNS Routing Opportunities don't happen. You create them. Logging Cloud Functions
+Success doesn’t just find you. You have to go out and get it. Framework Testing Version Control Data Science Security
