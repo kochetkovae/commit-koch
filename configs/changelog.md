@@ -11,3 +11,4 @@ Artificial Intelligence Docker To be the best, you must be able to handle the wo
 Difficult roads often lead to beautiful destinations. Automation Quantum Computing UX Optimization Edge Computing
 Database Indexing Quantum Computing Firewalls JWT JavaScript Optimization Success usually comes to those who are too busy to be looking for it.
 Content Delivery Network Machine Learning Kubernetes Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Database Monitoring
+Success doesn’t just find you. You have to go out and get it. NLP Innovation distinguishes between a leader and a follower. DNS Routing Version Control React If you can dream it, you can do it. Firewalls DevOps Algorithm Automation Deployment Stay hungry, stay foolish.
