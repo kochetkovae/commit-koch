@@ -10,3 +10,4 @@ Stay hungry, stay foolish. Predictive Analytics Edge Computing Do what you love 
 Security Cloud Container Orchestration Firewalls Server Response Dream big and dare to fail. Deployment DNS Routing Docker I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Monitoring
 DNS Routing Load Balancing Success is how high you bounce when you hit bottom. Zero Downtime Deployment Data Pipeline
 NLP Content Delivery Network Event-driven Architecture Agile Optimization Data Pipeline Virtual Machines Message Queue Edge Computing Parallel Processing Container Orchestration Machine Learning Serverless IoT
+Serverless Algorithm Event Sourcing The only way to do great work is to love what you do. Cloud Functions WebSockets API Replica Set API Gateway Firewalls
