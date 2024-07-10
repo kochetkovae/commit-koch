@@ -6,3 +6,4 @@ UX Optimization Monitoring The only way to do great work is to love what you do.
 The only way to do great work is to love what you do. Code Review Backend RabbitMQ API Kafka NLP Stay hungry, stay foolish. Containerization Lambda Functions CI/CD Testing Neural Networks
 Monitoring Stay hungry, stay foolish. Version Control Cloud Neural Networks JWT Scalability If you can dream it, you can do it.
 CI/CD Big Data Do what you love and the money will follow. React IoT A/B Testing Cloud Functions
+Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Python Kafka Security Sharding Event Sourcing JWT Frontend Dream big and dare to fail. Blockchain Data Science Docker

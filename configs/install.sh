@@ -11,3 +11,4 @@ Agile UX Optimization GraphQL Sharding The only way to do great work is to love 
 API Event-driven Architecture Kubernetes Load Balancing Virtual Machines Cloud Backend
 Monitoring Logging Message Queue Zero Downtime Deployment WebSockets Simplicity is the ultimate sophistication.
 Code Review RabbitMQ DevOps JavaScript Kubernetes Database Indexing WebSockets Version Control Docker
+Logging Server Response Multi-threading Neural Networks Innovation distinguishes between a leader and a follower. Data Pipeline Great things never come from comfort zones. Microservices Content Delivery Network Replica Set Happiness is not something ready made. It comes from your own actions. Framework Event-driven Architecture Agile

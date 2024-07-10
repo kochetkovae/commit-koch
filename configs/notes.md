@@ -9,3 +9,4 @@ JavaScript Big Data Stay hungry, stay foolish. Database GraphQL RabbitMQ Perform
 Stay hungry, stay foolish. Predictive Analytics Edge Computing Do what you love and the money will follow. Security Microservices
 Security Cloud Container Orchestration Firewalls Server Response Dream big and dare to fail. Deployment DNS Routing Docker I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Monitoring
 DNS Routing Load Balancing Success is how high you bounce when you hit bottom. Zero Downtime Deployment Data Pipeline
+NLP Content Delivery Network Event-driven Architecture Agile Optimization Data Pipeline Virtual Machines Message Queue Edge Computing Parallel Processing Container Orchestration Machine Learning Serverless IoT
