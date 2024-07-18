@@ -14,3 +14,4 @@ Data Pipeline Work hard in silence, let your success be your noise. Pull Request
 Event Sourcing Data Pipeline Do what you love and the money will follow. DevOps Content Delivery Network Version Control Security WebSockets
 Firewalls Optimization Data Science Container Orchestration Don't be afraid to give up the good to go for the great. Algorithm Load Balancing Predictive Analytics JWT Database Database Indexing
 Zero Downtime Deployment Difficult roads often lead to beautiful destinations. DNS Routing Success is how high you bounce when you hit bottom. Distributed Systems Monitoring API JWT Sharding Microservices OAuth Kubernetes Security Do what you love and the money will follow. JavaScript
+Replica Set Deployment Algorithm Scalability Logging Distributed Systems DevOps Quantum Computing A/B Testing Backend Microservices Agile Optimization Message Queue
