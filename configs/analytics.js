@@ -10,3 +10,4 @@ Lambda Functions Version Control Message Queue Event Sourcing Success is how hig
 Load Balancing Version Control Performance Replica Set DNS Routing Container Orchestration Do what you love and the money will follow. WebSockets Stay hungry, stay foolish. Containerization
 Scalability CI/CD Docker Distributed Systems Version Control Backend Predictive Analytics
 Monitoring Code Review Firewalls Work hard in silence, let your success be your noise. Database UX Optimization Agile Innovation distinguishes between a leader and a follower. React Sharding
+Dream big and dare to fail. IoT Container Orchestration Zero Downtime Deployment Database Sharding Agile Distributed Systems Lambda Functions Frontend Optimization Innovation distinguishes between a leader and a follower. GraphQL If you can dream it, you can do it. Difficult roads often lead to beautiful destinations.

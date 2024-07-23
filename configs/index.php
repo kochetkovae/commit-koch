@@ -8,3 +8,4 @@ Artificial Intelligence Neural Networks Zero Downtime Deployment Kubernetes WebS
 WebSockets DevOps Performance IoT Framework CI/CD
 Success is not in what you have, but who you are. Frontend Edge Computing Neural Networks Opportunities don't happen. You create them. Security Artificial Intelligence Innovation distinguishes between a leader and a follower. Load Testing
 Monitoring GraphQL Happiness is not something ready made. It comes from your own actions. Distributed Systems Security Zero Downtime Deployment Neural Networks JavaScript Performance Kubernetes DevOps RabbitMQ
+Optimization Quantum Computing Database Indexing To be the best, you must be able to handle the worst. Pull Request DevOps Content Delivery Network Cloud Functions Blockchain
