@@ -14,3 +14,4 @@ Optimization Success doesn’t just find you. You have to go out and get it. DevOp
 Message Queue Replica Set Neural Networks Success is not in what you have, but who you are. Load Testing
 Frontend Don't be afraid to give up the good to go for the great. JWT Server Response Latency Optimization Firewalls Edge Computing Opportunities don't happen. You create them. Dream big and dare to fail. Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Data Science Multi-threading Docker
 Code Review Automation Event-driven Architecture Difficult roads often lead to beautiful destinations. Testing
+Great things never come from comfort zones. Microservices I find that the harder I work, the more luck I seem to have. Data Science Multi-threading Load Testing Simplicity is the ultimate sophistication. Database Indexing Opportunities don't happen. You create them. Database Event Sourcing Testing Version Control Data Pipeline Performance
