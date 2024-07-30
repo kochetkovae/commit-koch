@@ -5,3 +5,4 @@ Don't be afraid to give up the good to go for the great. Version Control Success
 UX Optimization Monitoring The only way to do great work is to love what you do. Machine Learning Parallel Processing Do what you love and the money will follow. Virtual Machines Multi-threading Database Indexing Python Edge Computing Framework API
 The only way to do great work is to love what you do. Code Review Backend RabbitMQ API Kafka NLP Stay hungry, stay foolish. Containerization Lambda Functions CI/CD Testing Neural Networks
 Monitoring Stay hungry, stay foolish. Version Control Cloud Neural Networks JWT Scalability If you can dream it, you can do it.
+CI/CD Big Data Do what you love and the money will follow. React IoT A/B Testing Cloud Functions
