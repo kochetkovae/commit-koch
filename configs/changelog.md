@@ -10,3 +10,4 @@ Blockchain Success is how high you bounce when you hit bottom. Opportunities don
 Artificial Intelligence Docker To be the best, you must be able to handle the worst. RabbitMQ JWT Event Sourcing UX Optimization Success is how high you bounce when you hit bottom. Code Review Virtual Machines Dream big and dare to fail. CI/CD Serverless Cloud Machine Learning
 Difficult roads often lead to beautiful destinations. Automation Quantum Computing UX Optimization Edge Computing
 Database Indexing Quantum Computing Firewalls JWT JavaScript Optimization Success usually comes to those who are too busy to be looking for it.
+Content Delivery Network Machine Learning Kubernetes Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Database Monitoring
