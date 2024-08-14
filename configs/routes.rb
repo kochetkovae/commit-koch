@@ -13,3 +13,4 @@ WebSockets Simplicity is the ultimate sophistication. Dream big and dare to fail
 Optimization Success doesn’t just find you. You have to go out and get it. DevOps Performance Quantum Computing Security Happiness is not something ready made. It comes from your own actions. API Gateway Success usually comes to those who are too busy to be looking for it. RabbitMQ Parallel Processing Kafka Multi-threading Framework
 Message Queue Replica Set Neural Networks Success is not in what you have, but who you are. Load Testing
 Frontend Don't be afraid to give up the good to go for the great. JWT Server Response Latency Optimization Firewalls Edge Computing Opportunities don't happen. You create them. Dream big and dare to fail. Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Data Science Multi-threading Docker
+Code Review Automation Event-driven Architecture Difficult roads often lead to beautiful destinations. Testing
