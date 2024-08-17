@@ -8,3 +8,4 @@ GraphQL Database OAuth Machine Learning Success is not in what you have, but who
 UX Optimization Event Sourcing Frontend Latency Optimization Big Data Success is not in what you have, but who you are. Performance Microservices
 Framework Code Review Great things never come from comfort zones. JavaScript Load Balancing
 Replica Set Data Pipeline Kubernetes Automation Agile Cache Invalidation Serverless
+Parallel Processing Happiness is not something ready made. It comes from your own actions. NLP Frontend Stay hungry, stay foolish. Blockchain Agile Success is how high you bounce when you hit bottom. Automation Testing Content Delivery Network Message Queue Pull Request Cache Invalidation
