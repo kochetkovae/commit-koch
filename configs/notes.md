@@ -6,3 +6,4 @@ Event Sourcing Parallel Processing UX Optimization Scalability Kubernetes GraphQ
 Deployment Innovation distinguishes between a leader and a follower. Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Kubernetes Security NLP Stay hungry, stay foolish. Python GraphQL Data Science
 UX Optimization GraphQL Event Sourcing Container Orchestration Backend RabbitMQ Firewalls Cloud Functions Zero Downtime Deployment NLP Difficult roads often lead to beautiful destinations. Machine Learning
 JavaScript Big Data Stay hungry, stay foolish. Database GraphQL RabbitMQ Performance A/B Testing Scalability Container Orchestration Data Science Lambda Functions Load Balancing
+Stay hungry, stay foolish. Predictive Analytics Edge Computing Do what you love and the money will follow. Security Microservices

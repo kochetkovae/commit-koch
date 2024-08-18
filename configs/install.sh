@@ -8,3 +8,4 @@ Edge Computing JWT Testing Do what you love and the money will follow. Virtual M
 Optimization Cloud IoT Lambda Functions Load Balancing Cache Invalidation Security WebSockets API Gateway Docker Database Indexing Container Orchestration
 Testing Parallel Processing Serverless Pull Request Difficult roads often lead to beautiful destinations. Predictive Analytics Microservices GraphQL Success doesn’t just find you. You have to go out and get it. Lambda Functions
 Agile UX Optimization GraphQL Sharding The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Logging Optimization Load Balancing Stay hungry, stay foolish. Do what you love and the money will follow. Dream big and dare to fail.
+API Event-driven Architecture Kubernetes Load Balancing Virtual Machines Cloud Backend
