@@ -12,3 +12,4 @@ JavaScript If you can dream it, you can do it. Success is not in what you have, 
 The only way to do great work is to love what you do. CI/CD Frontend Scalability Simplicity is the ultimate sophistication. Latency Optimization UX Optimization Security Deployment Container Orchestration Optimization JavaScript Cache Invalidation
 NLP DevOps Monitoring Edge Computing Cloud Functions OAuth
 Security OAuth Work hard in silence, let your success be your noise. Firewalls Cloud Functions Python Machine Learning
+Frontend Event Sourcing GraphQL If you can dream it, you can do it. Performance Kafka Firewalls Pull Request Sharding JWT Scalability Multi-threading IoT Big Data
