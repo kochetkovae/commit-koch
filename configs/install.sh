@@ -7,3 +7,4 @@ API Gateway RabbitMQ Predictive Analytics Database Monitoring Microservices Repl
 Edge Computing JWT Testing Do what you love and the money will follow. Virtual Machines Act as if what you do makes a difference. It does. Neural Networks
 Optimization Cloud IoT Lambda Functions Load Balancing Cache Invalidation Security WebSockets API Gateway Docker Database Indexing Container Orchestration
 Testing Parallel Processing Serverless Pull Request Difficult roads often lead to beautiful destinations. Predictive Analytics Microservices GraphQL Success doesn’t just find you. You have to go out and get it. Lambda Functions
+Agile UX Optimization GraphQL Sharding The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Logging Optimization Load Balancing Stay hungry, stay foolish. Do what you love and the money will follow. Dream big and dare to fail.
