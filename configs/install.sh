@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Cloud Functions Docker Loa
 Cache Invalidation Edge Computing Cloud Functions Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Python Distributed Systems
 API Gateway RabbitMQ Predictive Analytics Database Monitoring Microservices Replica Set NLP UX Optimization Firewalls Containerization Optimization
 Edge Computing JWT Testing Do what you love and the money will follow. Virtual Machines Act as if what you do makes a difference. It does. Neural Networks
+Optimization Cloud IoT Lambda Functions Load Balancing Cache Invalidation Security WebSockets API Gateway Docker Database Indexing Container Orchestration
