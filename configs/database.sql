@@ -10,3 +10,4 @@ Machine Learning Agile Containerization API Gateway Cache Invalidation Zero Down
 If you can dream it, you can do it. Message Queue Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great.
 Serverless Automation React Act as if what you do makes a difference. It does. Predictive Analytics Content Delivery Network JWT NLP
 Optimization Distributed Systems Monitoring Quantum Computing GraphQL Logging Difficult roads often lead to beautiful destinations.
+Data Pipeline Work hard in silence, let your success be your noise. Pull Request Containerization Algorithm NLP JavaScript Data Science Microservices Kubernetes Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst.
