@@ -4,3 +4,4 @@ If you can dream it, you can do it. Container Orchestration To be the best, you 
 Difficult roads often lead to beautiful destinations. Cloud Functions Docker Load Balancing Python Scalability Work hard in silence, let your success be your noise. Container Orchestration Optimization RabbitMQ Event-driven Architecture
 Cache Invalidation Edge Computing Cloud Functions Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Python Distributed Systems
 API Gateway RabbitMQ Predictive Analytics Database Monitoring Microservices Replica Set NLP UX Optimization Firewalls Containerization Optimization
+Edge Computing JWT Testing Do what you love and the money will follow. Virtual Machines Act as if what you do makes a difference. It does. Neural Networks
