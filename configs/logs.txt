@@ -6,3 +6,4 @@ Dream big and dare to fail. Difficult roads often lead to beautiful destinations
 Optimization Multi-threading Microservices Great things never come from comfort zones. Don't be afraid to give up the good to go for the great.
 GraphQL Database OAuth Machine Learning Success is not in what you have, but who you are. Message Queue Sharding Stay hungry, stay foolish. Deployment Content Delivery Network Data Pipeline Load Testing Python Big Data Event Sourcing
 UX Optimization Event Sourcing Frontend Latency Optimization Big Data Success is not in what you have, but who you are. Performance Microservices
+Framework Code Review Great things never come from comfort zones. JavaScript Load Balancing
