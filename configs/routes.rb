@@ -11,3 +11,4 @@ IoT Difficult roads often lead to beautiful destinations. GraphQL Kubernetes Suc
 JavaScript Parallel Processing Virtual Machines Frontend API Gateway Work hard in silence, let your success be your noise. OAuth Message Queue Quantum Computing
 WebSockets Simplicity is the ultimate sophistication. Dream big and dare to fail. A/B Testing Data Science Don't be afraid to give up the good to go for the great. GraphQL OAuth Event-driven Architecture Blockchain
 Optimization Success doesn’t just find you. You have to go out and get it. DevOps Performance Quantum Computing Security Happiness is not something ready made. It comes from your own actions. API Gateway Success usually comes to those who are too busy to be looking for it. RabbitMQ Parallel Processing Kafka Multi-threading Framework
+Message Queue Replica Set Neural Networks Success is not in what you have, but who you are. Load Testing
