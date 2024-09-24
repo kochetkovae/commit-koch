@@ -4,3 +4,4 @@ Scalability Great things never come from comfort zones. Virtual Machines Firewal
 Testing Cloud Success is not in what you have, but who you are. Event Sourcing Content Delivery Network Distributed Systems A/B Testing
 Performance Container Orchestration Distributed Systems Data Science Logging Monitoring
 NLP Zero Downtime Deployment Scalability Testing GraphQL Success doesn’t just find you. You have to go out and get it. Performance Dream big and dare to fail. Serverless Act as if what you do makes a difference. It does.
+Machine Learning Microservices React Cache Invalidation Serverless Pull Request Simplicity is the ultimate sophistication. Data Pipeline I find that the harder I work, the more luck I seem to have. Event Sourcing Kafka
