@@ -9,3 +9,4 @@ The only way to do great work is to love what you do. Version Control Containeri
 Kubernetes Latency Optimization Virtual Machines Do what you love and the money will follow. Cloud Python
 IoT Difficult roads often lead to beautiful destinations. GraphQL Kubernetes Success doesn’t just find you. You have to go out and get it. Pull Request Microservices Distributed Systems Sharding Agile
 JavaScript Parallel Processing Virtual Machines Frontend API Gateway Work hard in silence, let your success be your noise. OAuth Message Queue Quantum Computing
+WebSockets Simplicity is the ultimate sophistication. Dream big and dare to fail. A/B Testing Data Science Don't be afraid to give up the good to go for the great. GraphQL OAuth Event-driven Architecture Blockchain
