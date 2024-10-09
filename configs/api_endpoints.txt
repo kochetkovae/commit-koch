@@ -4,3 +4,4 @@ UX Optimization Do what you love and the money will follow. Cloud Functions Load
 CI/CD I find that the harder I work, the more luck I seem to have. OAuth Virtual Machines Machine Learning Pull Request Do what you love and the money will follow. Framework Multi-threading Database Indexing Frontend Success usually comes to those who are too busy to be looking for it. Kafka Containerization
 Machine Learning Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Container Orchestration Database Indexing Logging Big Data Blockchain GraphQL
 Code Review Security JWT Backend Testing Frontend Cache Invalidation
+DNS Routing WebSockets Container Orchestration Neural Networks NLP Cache Invalidation Docker API Machine Learning Load Testing Lambda Functions
