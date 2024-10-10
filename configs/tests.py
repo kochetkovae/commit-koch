@@ -8,3 +8,4 @@ Server Response Zero Downtime Deployment Quantum Computing Do what you love and 
 Performance Predictive Analytics Virtual Machines Quantum Computing Microservices
 Frontend Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. NLP Simplicity is the ultimate sophistication. API Gateway
 Latency Optimization Machine Learning Cloud Functions Automation Sharding Multi-threading Success is not in what you have, but who you are. Event-driven Architecture Kafka Version Control A/B Testing Security Serverless Stay hungry, stay foolish.
+JavaScript If you can dream it, you can do it. Success is not in what you have, but who you are. Monitoring Kubernetes Success is how high you bounce when you hit bottom. React
