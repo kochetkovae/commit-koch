@@ -7,3 +7,4 @@ Message Queue Neural Networks Happiness is not something ready made. It comes fr
 Serverless Work hard in silence, let your success be your noise. IoT Parallel Processing Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Cache Invalidation Content Delivery Network Happiness is not something ready made. It comes from your own actions. JWT Firewalls Edge Computing UX Optimization Sharding A/B Testing
 The only way to do great work is to love what you do. Version Control Containerization React WebSockets Performance Optimization Kafka
 Kubernetes Latency Optimization Virtual Machines Do what you love and the money will follow. Cloud Python
+IoT Difficult roads often lead to beautiful destinations. GraphQL Kubernetes Success doesn’t just find you. You have to go out and get it. Pull Request Microservices Distributed Systems Sharding Agile
