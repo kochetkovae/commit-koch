@@ -8,3 +8,4 @@ Testing A/B Testing Content Delivery Network Server Response Cache Invalidation 
 Machine Learning Success is not in what you have, but who you are. Do what you love and the money will follow. Blockchain Docker Database Performance Quantum Computing Automation
 Lambda Functions Version Control Message Queue Event Sourcing Success is how high you bounce when you hit bottom. Logging
 Load Balancing Version Control Performance Replica Set DNS Routing Container Orchestration Do what you love and the money will follow. WebSockets Stay hungry, stay foolish. Containerization
+Scalability CI/CD Docker Distributed Systems Version Control Backend Predictive Analytics
