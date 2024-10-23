@@ -4,3 +4,4 @@ Agile Optimization Pull Request Container Orchestration Quantum Computing Multi-
 Blockchain CI/CD Quantum Computing Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Agile Cloud Functions
 Big Data Message Queue Scalability Data Science RabbitMQ
 Event-driven Architecture Container Orchestration WebSockets Sharding NLP Simplicity is the ultimate sophistication. Python Cloud Functions Performance API Gateway Algorithm Serverless Success is how high you bounce when you hit bottom.
+Agile Monitoring React Kafka Dream big and dare to fail. Simplicity is the ultimate sophistication. Optimization
