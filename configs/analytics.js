@@ -6,3 +6,4 @@ Testing API Gateway Algorithm UX Optimization Performance Code Review Success do
 Sharding Event Sourcing JavaScript Event-driven Architecture Quantum Computing Innovation distinguishes between a leader and a follower. JWT Serverless API Gateway Parallel Processing Great things never come from comfort zones. To be the best, you must be able to handle the worst.
 Testing A/B Testing Content Delivery Network Server Response Cache Invalidation WebSockets Cloud Functions Replica Set Blockchain Sharding
 Machine Learning Success is not in what you have, but who you are. Do what you love and the money will follow. Blockchain Docker Database Performance Quantum Computing Automation
+Lambda Functions Version Control Message Queue Event Sourcing Success is how high you bounce when you hit bottom. Logging
