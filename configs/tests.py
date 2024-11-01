@@ -6,3 +6,4 @@ Scalability Work hard in silence, let your success be your noise. Zero Downtime 
 Kafka Work hard in silence, let your success be your noise. Performance Dream big and dare to fail. Predictive Analytics Testing Database Indexing API Container Orchestration
 Server Response Zero Downtime Deployment Quantum Computing Do what you love and the money will follow. Machine Learning Optimization Great things never come from comfort zones. Serverless
 Performance Predictive Analytics Virtual Machines Quantum Computing Microservices
+Frontend Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. NLP Simplicity is the ultimate sophistication. API Gateway
