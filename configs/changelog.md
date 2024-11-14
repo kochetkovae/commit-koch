@@ -4,3 +4,4 @@ Agile Container Orchestration Monitoring Virtual Machines Event-driven Architect
 Algorithm If you can dream it, you can do it. Code Review Load Balancing Docker CI/CD Virtual Machines RabbitMQ JavaScript Multi-threading Performance Testing
 Data Science OAuth If you can dream it, you can do it. Parallel Processing Logging IoT
 Firewalls Kafka Content Delivery Network Data Science Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. JWT Code Review JavaScript Stay hungry, stay foolish. Event Sourcing
+Latency Optimization Algorithm I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Kafka CI/CD Cloud Functions Quantum Computing Monitoring Success doesn’t just find you. You have to go out and get it.
