@@ -2,3 +2,4 @@ Version Control Machine Learning Deployment Replica Set Database Performance Dat
 IoT Success is not in what you have, but who you are. Do what you love and the money will follow. Serverless Happiness is not something ready made. It comes from your own actions. API Multi-threading A/B Testing Event-driven Architecture Logging
 Agile Container Orchestration Monitoring Virtual Machines Event-driven Architecture Deployment Neural Networks Kubernetes CI/CD To be the best, you must be able to handle the worst. Kafka
 Algorithm If you can dream it, you can do it. Code Review Load Balancing Docker CI/CD Virtual Machines RabbitMQ JavaScript Multi-threading Performance Testing
+Data Science OAuth If you can dream it, you can do it. Parallel Processing Logging IoT
