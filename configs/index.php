@@ -1,3 +1,4 @@
 Automation Act as if what you do makes a difference. It does. Distributed Systems Server Response The only way to do great work is to love what you do. Do what you love and the money will follow. Message Queue Predictive Analytics IoT Security
 Database Indexing Load Balancing Machine Learning Success usually comes to those who are too busy to be looking for it. Parallel Processing Kafka
 Database Testing Edge Computing Deployment I find that the harder I work, the more luck I seem to have. IoT Content Delivery Network RabbitMQ OAuth
+Artificial Intelligence Optimization Load Balancing Cache Invalidation Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Database Indexing Happiness is not something ready made. It comes from your own actions. DNS Routing Quantum Computing Serverless
