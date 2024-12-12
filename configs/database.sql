@@ -2,3 +2,4 @@ JWT Lambda Functions Latency Optimization Data Pipeline Cloud Functions Containe
 Testing NLP Database Latency Optimization JWT Data Pipeline
 Parallel Processing Content Delivery Network IoT CI/CD Version Control Opportunities don't happen. You create them. Artificial Intelligence
 Event Sourcing Cache Invalidation Event-driven Architecture Database Cloud Functions JavaScript
+WebSockets Pull Request API RabbitMQ Python A/B Testing Optimization Latency Optimization Container Orchestration Machine Learning Monitoring Message Queue
