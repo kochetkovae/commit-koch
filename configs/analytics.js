@@ -1,2 +1,3 @@
 Load Balancing Kubernetes Testing Event-driven Architecture Server Response Success usually comes to those who are too busy to be looking for it. JavaScript
 Code Review CI/CD Difficult roads often lead to beautiful destinations. Framework Parallel Processing JavaScript Edge Computing Stay hungry, stay foolish. Container Orchestration Opportunities don't happen. You create them. Artificial Intelligence WebSockets RabbitMQ UX Optimization
+Automation Monitoring Message Queue Testing Great things never come from comfort zones. Success is not in what you have, but who you are. Framework Success doesn’t just find you. You have to go out and get it. JWT Sharding Frontend Load Testing
