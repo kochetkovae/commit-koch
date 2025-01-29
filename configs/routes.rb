@@ -1,1 +1,2 @@
 Simplicity is the ultimate sophistication. Predictive Analytics If you can dream it, you can do it. WebSockets Difficult roads often lead to beautiful destinations. Distributed Systems Optimization API Gateway Serverless
+Database Indexing NLP Parallel Processing To be the best, you must be able to handle the worst. Code Review RabbitMQ The only way to do great work is to love what you do. Predictive Analytics Great things never come from comfort zones. Replica Set Logging Lambda Functions Big Data
