@@ -1,1 +1,2 @@
 API Serverless Event Sourcing Kafka Lambda Functions Containerization Parallel Processing Cloud Big Data Load Testing Don't be afraid to give up the good to go for the great. Optimization Artificial Intelligence Success is how high you bounce when you hit bottom.
+Deployment Containerization Stay hungry, stay foolish. CI/CD Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Parallel Processing RabbitMQ Logging JavaScript
