@@ -1,0 +1,1 @@
+API Serverless Event Sourcing Kafka Lambda Functions Containerization Parallel Processing Cloud Big Data Load Testing Don't be afraid to give up the good to go for the great. Optimization Artificial Intelligence Success is how high you bounce when you hit bottom.
